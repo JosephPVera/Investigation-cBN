@@ -1,0 +1,26 @@
+! Electronic relaxation
+ALGO   = Normal    ! Algorithm for electronic relaxation
+NELMIN = 4         ! Minimum # of electronic steps
+NELM   = 1500      ! Maximun # of electronics steps
+EDIFF  = 1E-6      ! Accuracy for electronic groundstate
+ENCUT  = 500       ! Cut-off energy for plane wave expansion
+PREC   = Normal    ! Low/Normal/Accurate
+LREAL  = .FALSE.   ! Projection in reciprocal space?
+ISMEAR = 0         ! Smearing of partial occupancies.
+SIGMA  = 0.005     ! Smearing width
+ICHARG = 11         # Reads the charge distribution to make a BS
+ISPIN  = 1         ! Spin polarization?
+
+! Ionic relaxation
+NSW    = 0          ! Static high-accuracy calculation without relaxation
+IBRION   = -1       # Single Point
+ISIF     = 2        # Stress and Relaxation: 2-Ion 3-cell+ion
+ADDGRID  = .TRUE.   # Improve the grid accuracy
+
+! Output options 
+LWAVE  = .FALSE.   ! Write WAVECAR?  
+LORBIT = 11        ! Write LDOS to DOSCAR + PROCAR 
+ 
+! Memory handling
+NPAR    = 4
+NCORE = 10 
