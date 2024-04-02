@@ -1,0 +1,23 @@
+! Electronic relaxation
+ALGO   = Damped ! Algorithm for electronic relaxation
+TIME   = 0.4       ! Time step for electronic relaxation
+NELMIN = 4         ! Minimum # of electronic steps
+EDIFF  = 1E-6      ! Accuracy for electronic groundstate
+ENCUT  = 500       ! Cut-off energy for plane wave expansion
+PREC   = Normal    ! Low/Normal/Accurate
+LREAL  = .FALSE. ! Projection in reciprocal space?
+ISMEAR = 0        ! Smearing of partial occupancies.
+SIGMA  = 0.005       ! Smearing width
+ISPIN  = 2         ! Spin polarization?
+LHFCALC = .TRUE.   ! Hartree-Fock?
+HFSCREEN = 0.2     ! Range-separated hybrid functional: HSE06 (0.2), HSE03 (0.3)
+SYMPREC = 1E-4     ! Accuracy of positions for symmetry. Default 1E-5
+
+! Ionic relaxation
+NSW    = 30         ! Static high-accuracy calculation without relaxation
+IBRION = 2          ! Algorithm for relaxing atomic positions 
+ISIF = 3            ! 3 means relax volume, ISIF 2 or 0 relaxes only atoms, not lattice vectors 
+ 
+! Memory handling
+NPAR    = 4
+NCORE = 10 
