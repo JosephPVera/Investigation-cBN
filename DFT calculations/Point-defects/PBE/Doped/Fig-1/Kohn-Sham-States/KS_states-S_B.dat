@@ -1,0 +1,296 @@
+Defect:S_B1_4
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.230   0.01     0.75        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  437    12.633  0.11     0.00        0.18     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: True (0.500 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    10.819  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+434    10.820  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.58, S-p: 0.58
+435    10.821  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+436    12.245  0.88     0.00        B-p: 0.16, N-s: 0.41, N-p: 1.40, S-s: 0.84
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.230   0.01     0.75        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  437    12.633  0.11     0.00        0.18     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: True (0.500 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    10.819  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+434    10.820  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.58, S-p: 0.58
+435    10.821  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+436    12.245  0.88     0.00        B-p: 0.16, N-s: 0.41, N-p: 1.40, S-s: 0.84
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_3
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.242   0.01     1.00        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  437    12.627  0.11     0.00        0.18     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    10.800  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+434    10.801  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.58, S-p: 0.58
+435    10.804  0.60     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+436    12.245  0.88     0.00        B-p: 0.16, N-s: 0.41, N-p: 1.40, S-s: 0.84
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.242   0.01     1.00        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  437    12.627  0.11     0.00        0.18     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    10.800  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+434    10.801  0.61     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.58, S-p: 0.58
+435    10.804  0.60     0.00        B-p: 0.45, N-s: 0.27, N-p: 0.57, S-p: 0.58
+436    12.245  0.88     0.00        B-p: 0.16, N-s: 0.41, N-p: 1.40, S-s: 0.84
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_2
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.222   0.01     1.00        0.00     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  438    12.578  0.08     0.00        0.14     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    8.895   0.77     1.00        B-p: 0.24, N-s: 0.19, N-p: 1.21, S-s: 0.17, S-p: 0.62
+434    11.196  0.64     0.00        B-p: 0.39, N-s: 0.26, N-p: 0.61, S-p: 0.60
+435    11.217  0.64     0.00        B-p: 0.39, N-s: 0.25, N-p: 0.62, S-p: 0.61
+436    11.410  0.86     0.00        B-p: 0.15, N-s: 0.30, N-p: 1.44, S-s: 0.63, S-p: 0.28
+437    12.573  0.10     0.00        B-p: 0.77, N-s: 0.47, N-p: 0.18
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.225   0.01     1.00        0.00     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  438    12.600  0.10     0.00        0.17     B-p: 0.19, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    10.334  0.75     0.00        B-p: 0.27, N-s: 0.26, N-p: 0.97, S-s: 0.22, S-p: 0.61
+434    11.285  0.62     0.00        B-p: 0.40, N-s: 0.27, N-p: 0.59, S-p: 0.57
+435    11.306  0.63     0.00        B-p: 0.40, N-s: 0.26, N-p: 0.60, S-p: 0.57
+436    11.533  0.85     0.00        B-p: 0.16, N-s: 0.30, N-p: 1.42, S-s: 0.61, S-p: 0.29
+437    12.596  0.12     0.00        B-p: 0.76, N-s: 0.46, N-p: 0.20
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_1
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.199   0.01     1.00        0.00     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  437    12.523  0.05     0.00        0.09     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    9.069   0.79     1.00        B-p: 0.22, N-s: 0.15, N-p: 1.43, S-s: 0.26, S-p: 0.49
+434    9.371   0.82     1.00        B-p: 0.15, N-s: 0.15, N-p: 1.47, S-s: 0.17, S-p: 0.72
+435    11.318  0.77     0.00        B-p: 0.24, N-s: 0.28, N-p: 0.99, S-s: 0.24, S-p: 0.57
+436    12.050  0.44     0.00        B-p: 0.50, N-s: 0.37, N-p: 0.41, S-p: 0.32
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.208   0.02     1.00        0.00     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  437    12.564  0.07     0.00        0.12     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    10.472  0.83     0.00        B-p: 0.19, N-s: 0.19, N-p: 1.51, S-s: 0.52, S-p: 0.18
+434    10.604  0.77     0.00        B-p: 0.21, N-s: 0.20, N-p: 1.08, S-p: 0.93
+435    11.709  0.68     0.00        B-p: 0.33, N-s: 0.32, N-p: 0.77, S-s: 0.17, S-p: 0.52
+436    12.167  0.30     0.00        B-p: 0.59, N-s: 0.42, N-p: 0.30, S-p: 0.19
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_0
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.218   0.07     1.00        0.03     B-p: 0.12, N-p: 0.66  ( 0.250,  0.250,  0.250)
+CBM  437    12.517  0.06     0.00        0.09     B-p: 0.19, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    9.076   0.77     1.00        B-p: 0.20, N-s: 0.17, N-p: 1.39, S-s: 0.22, S-p: 0.66
+434    10.099  0.87     1.00        N-s: 0.14, N-p: 1.84, S-s: 0.41, S-p: 0.47
+435    11.971  0.62     0.00        B-p: 0.38, N-s: 0.30, N-p: 0.56, S-p: 0.56
+436    12.040  0.60     0.00        B-p: 0.40, N-s: 0.31, N-p: 0.55, S-p: 0.53
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  432    7.260   0.13     1.00        0.07     B-p: 0.12, N-p: 0.65  ( 0.250,  0.250,  0.250)
+CBM  437    12.526  0.05     0.00        0.09     B-p: 0.20, N-s: 0.12  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+433    9.260   0.77     1.00        B-p: 0.20, N-s: 0.17, N-p: 1.46, S-s: 0.23, S-p: 0.55
+434    10.847  0.86     0.00        B-p: 0.11, N-s: 0.15, N-p: 1.70, S-s: 0.42, S-p: 0.49
+435    12.126  0.49     0.00        B-p: 0.49, N-s: 0.36, N-p: 0.42, S-p: 0.39
+436    12.178  0.45     0.00        B-p: 0.52, N-s: 0.38, N-p: 0.40, S-p: 0.34
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_-1
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  431    7.179   0.03     1.00        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  436    12.356  0.03     0.00        0.03     B-p: 0.19, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+432    7.380   0.36     1.00        B-p: 0.35, N-p: 2.31, S-p: 0.26
+433    9.782   0.78     1.00        B-p: 0.20, N-s: 0.15, N-p: 1.50, S-s: 0.30, S-p: 0.41
+434    10.432  0.80     1.00        B-p: 0.16, N-s: 0.15, N-p: 1.48, S-s: 0.20, S-p: 0.64
+435    12.026  0.65     0.00        B-p: 0.38, N-s: 0.32, N-p: 0.67, S-s: 0.11, S-p: 0.65
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  431    7.179   0.03     1.00        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  436    12.356  0.03     0.00        0.03     B-p: 0.19, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+432    7.380   0.36     1.00        B-p: 0.35, N-p: 2.31, S-p: 0.26
+433    9.782   0.78     1.00        B-p: 0.20, N-s: 0.15, N-p: 1.50, S-s: 0.30, S-p: 0.41
+434    10.432  0.80     1.00        B-p: 0.16, N-s: 0.15, N-p: 1.48, S-s: 0.20, S-p: 0.64
+435    12.026  0.65     0.00        B-p: 0.38, N-s: 0.32, N-p: 0.67, S-s: 0.11, S-p: 0.65
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_-2
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  430    7.174   0.04     1.00        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  436    12.334  0.02     0.00        0.03     B-p: 0.20, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+431    7.221   0.22     1.00        B-p: 0.42, N-p: 2.49, S-p: 0.13
+432    7.520   0.42     1.00        B-p: 0.29, N-p: 2.32, S-p: 0.25
+433    10.022  0.82     1.00        B-p: 0.17, N-s: 0.12, N-p: 1.82, S-s: 0.47
+434    10.430  0.75     1.00        B-p: 0.21, N-s: 0.20, N-p: 1.12, S-p: 0.95
+435    11.124  0.79     1.00        B-p: 0.21, N-s: 0.15, N-p: 1.14, S-p: 1.13
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  430    7.180   0.05     1.00        0.01     B-p: 0.13, N-p: 0.67  ( 0.250,  0.250,  0.250)
+CBM  436    12.337  0.02     0.00        0.03     B-p: 0.20, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+431    7.316   0.31     1.00        B-p: 0.37, N-p: 2.42, S-p: 0.17
+432    7.652   0.48     1.00        B-p: 0.26, N-p: 2.21, S-p: 0.33
+433    10.228  0.82     1.00        B-p: 0.17, N-s: 0.13, N-p: 1.77, S-s: 0.50
+434    10.610  0.74     1.00        B-p: 0.23, N-s: 0.20, N-p: 1.13, S-p: 0.88
+435    11.839  0.75     0.00        B-p: 0.29, N-s: 0.19, N-p: 0.92, S-p: 1.04
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_-3
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  430    7.180   0.10     1.00        0.06     B-p: 0.13, N-p: 0.64  ( 0.250,  0.250,  0.250)
+CBM  436    12.308  0.01     0.00        0.04     B-p: 0.20, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+431    7.980   0.35     1.00        B-p: 0.24, N-p: 2.32
+432    8.467   0.20     1.00        B-p: 0.15, N-s: 0.14, N-p: 2.40
+433    9.614   0.75     1.00        B-p: 0.36, N-p: 1.75, S-s: 0.17, S-p: 0.22
+434    9.698   0.64     1.00        B-p: 0.39, N-s: 0.15, N-p: 1.69, S-p: 0.41
+435    11.070  0.79     1.00        B-p: 0.25, N-s: 0.13, N-p: 1.52, S-s: 0.25, S-p: 0.68
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  430    7.180   0.10     1.00        0.06     B-p: 0.13, N-p: 0.64  ( 0.250,  0.250,  0.250)
+CBM  436    12.308  0.01     0.00        0.04     B-p: 0.20, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: False (0.000 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+431    7.980   0.35     1.00        B-p: 0.24, N-p: 2.32
+432    8.467   0.20     1.00        B-p: 0.15, N-s: 0.14, N-p: 2.40
+433    9.614   0.75     1.00        B-p: 0.36, N-p: 1.75, S-s: 0.17, S-p: 0.22
+434    9.698   0.64     1.00        B-p: 0.39, N-s: 0.15, N-p: 1.69, S-p: 0.41
+435    11.070  0.79     1.00        B-p: 0.25, N-s: 0.13, N-p: 1.52, S-s: 0.25, S-p: 0.68
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+Defect:S_B1_-4
+ -- band-edge states info
+Spin-up
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  430    7.170   0.09     1.00        0.06     B-p: 0.13, N-p: 0.64  ( 0.250,  0.250,  0.250)
+CBM  436    12.266  0.01     0.43        0.05     B-p: 0.20, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: True (0.500 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+431    7.942   0.36     1.00        B-p: 0.23, N-p: 2.32
+432    8.426   0.20     1.00        B-p: 0.15, N-s: 0.14, N-p: 2.40
+433    9.577   0.74     1.00        B-p: 0.36, N-p: 1.75, S-s: 0.17, S-p: 0.22
+434    9.670   0.65     1.00        B-p: 0.39, N-s: 0.15, N-p: 1.69, S-p: 0.40
+435    11.039  0.79     1.00        B-p: 0.24, N-s: 0.13, N-p: 1.52, S-s: 0.25, S-p: 0.68
+
+Spin-down
+     Index  Energy  P-ratio  Occupation  OrbDiff  Orbitals              K-point coords
+VBM  430    7.170   0.09     1.00        0.06     B-p: 0.13, N-p: 0.64  ( 0.250,  0.250,  0.250)
+CBM  436    12.266  0.01     0.43        0.05     B-p: 0.20, N-s: 0.13  ( 0.250,  0.250,  0.250)
+vbm has acceptor phs: False (0.000 vs. 0.2)
+cbm has donor phs: True (0.500 vs. 0.2)
+---
+Localized Orbital(s)
+Index  Energy  P-ratio  Occupation  Orbitals
+431    7.942   0.36     1.00        B-p: 0.23, N-p: 2.32
+432    8.426   0.20     1.00        B-p: 0.15, N-s: 0.14, N-p: 2.40
+433    9.577   0.74     1.00        B-p: 0.36, N-p: 1.75, S-s: 0.17, S-p: 0.22
+434    9.670   0.65     1.00        B-p: 0.39, N-s: 0.15, N-p: 1.69, S-p: 0.40
+435    11.039  0.79     1.00        B-p: 0.24, N-s: 0.13, N-p: 1.52, S-s: 0.25, S-p: 0.68
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
