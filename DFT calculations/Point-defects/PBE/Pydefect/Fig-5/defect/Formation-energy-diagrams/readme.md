@@ -1,2 +1,2 @@
-A ---> B-rich
-B ---> N-rich
+# A ---> B-rich
+# B ---> N-rich
