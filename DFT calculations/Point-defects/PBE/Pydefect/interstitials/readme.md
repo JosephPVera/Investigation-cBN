@@ -6,6 +6,6 @@ Competing Phases from The Materials Project (https://next-gen.materialsproject.o
 - BN_mp-604884
 
 Oxidation states:
-- $$B_N$$: [-2, -1, 0, 1, 2]
 - $$B_i$$: [-2, -1, 0, 1, 2]
+- $$N_i$$: [-2, -1, 0, 1, 2]
 
