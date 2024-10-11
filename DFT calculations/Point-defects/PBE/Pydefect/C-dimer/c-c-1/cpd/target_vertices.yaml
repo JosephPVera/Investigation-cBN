@@ -1,0 +1,19 @@
+target: BN
+A:
+  chem_pot:
+    B: 0.0
+    C: 0.0
+    N: -2.56377
+  competing_phases:
+  - B
+  impurity_phases:
+  - C
+B:
+  chem_pot:
+    B: -2.56377
+    C: 0.0
+    N: 0.0
+  competing_phases:
+  - N
+  impurity_phases:
+  - C
