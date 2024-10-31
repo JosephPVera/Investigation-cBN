@@ -1,2 +1,2 @@
 Defects:
--$C_B-C_N$
+- $C_B-C_N$
