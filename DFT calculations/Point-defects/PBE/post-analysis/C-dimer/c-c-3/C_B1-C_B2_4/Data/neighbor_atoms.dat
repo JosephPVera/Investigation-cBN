@@ -1,0 +1,28 @@
+
+##################################################################
+
+Substitutional: C_B
+Index in ../perfect/POSCAR: 41
+Index in C_B1-C_B2_4/POSCAR: 215
+Position: [0.5        0.5        0.33333334]
+
+Closest neighbors to the C_B defect in C_B1-C_B2_4/POSCAR:
+Index      Atom       Position                       Distance (A)
+147        N          0.583333 0.583333 0.416667     1.5699    
+173        N          0.583333 0.416667 0.250000     1.5699    
+200        N          0.416667 0.583333 0.250000     1.5699    
+120        N          0.416667 0.416667 0.416667     1.5699    
+
+##################################################################
+
+Substitutional: C_B
+Index in ../perfect/POSCAR: 42
+Index in C_B1-C_B2_4/POSCAR: 216
+Position: [0.5        0.5        0.66666669]
+
+Closest neighbors to the C_B defect in C_B1-C_B2_4/POSCAR:
+Index      Atom       Position                       Distance (A)
+148        N          0.583333 0.583333 0.750000     1.5699    
+121        N          0.416667 0.416667 0.750000     1.5699    
+174        N          0.583333 0.416667 0.583333     1.5699    
+201        N          0.416667 0.583333 0.583333     1.5699    

@@ -1,0 +1,11 @@
+
+Vacancy: V_B
+Index in ../perfect/POSCAR: 42
+Position: [0.5        0.5        0.66666667]
+
+Closest neighbors to the V_B defect in Va_B1_-1/POSCAR:
+Index      Atom       Position                       Distance (A)
+149        N          0.583333 0.583333 0.750000     1.5699    
+175        N          0.583333 0.416667 0.583333     1.5699    
+202        N          0.416667 0.583333 0.583333     1.5699    
+122        N          0.416667 0.416667 0.750000     1.5699    

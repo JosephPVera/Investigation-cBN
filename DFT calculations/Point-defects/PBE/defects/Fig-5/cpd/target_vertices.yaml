@@ -1,8 +1,8 @@
 target: BN
 A:
   chem_pot:
-    B: 0.0
-    N: -2.56377
+    B: -0.0
+    N: -2.42495
     O: 0.0
     Si: 0.0
   competing_phases:
@@ -12,8 +12,8 @@ A:
   - O
 B:
   chem_pot:
-    B: -2.56377
-    N: 0.0
+    B: -2.42495
+    N: -0.0
     O: 0.0
     Si: 0.0
   competing_phases:

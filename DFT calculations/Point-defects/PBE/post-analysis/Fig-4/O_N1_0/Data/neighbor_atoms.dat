@@ -1,0 +1,14 @@
+
+##################################################################
+
+Substitutional: O_N
+Index in ../perfect/POSCAR: 149
+Index in O_N1_0/POSCAR: 216
+Position: [0.58333331 0.58333331 0.41666666]
+
+Closest neighbors to the O_N defect in O_N1_0/POSCAR:
+Index      Atom       Position                       Distance (A)
+41         B          0.500000 0.500000 0.333333     1.5699    
+71         B          0.500000 0.666667 0.500000     1.5699    
+104        B          0.666667 0.500000 0.500000     1.5699    
+26         B          0.666667 0.666667 0.333333     1.5699    
