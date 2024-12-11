@@ -1,4 +1,6 @@
-Defects: $$B_i$$ and $$N_i$$
+Defects: 
+- $$B_i$$
+- $$N_i$$
 
 Competing Phases from The Materials Project (https://next-gen.materialsproject.org/)
 - B_mp-160
