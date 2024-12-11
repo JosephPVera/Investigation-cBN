@@ -15,8 +15,7 @@ Defects:
 Defects: Competing Phases from The Materials Project (https://next-gen.materialsproject.org/)
 - B_mp-160
 - mol_N2
-- BN_mp-13150
-- BN_mp-604884
+- BN_mp-1639
 - C_mp-2516584
   
 Oxidation states: [-4, -3, -2, -1, 0, 1, 2, 3, 4]
