@@ -7,4 +7,4 @@ c-BN, a semiconductor material with an ultra-wide band gap, will be the object o
 Furthermore, details of the arrangement of the energy levels in KS level diagrams such as energy, occupancy, and contribution of ions in a given band is shown in **localized_(defect).dat** files. Pre-simulations for obtaining the formation and KS level energy diagrams can be seen in the following workflow:
 ![Alt text](https://github.com/JosephPVera/Investigation-cBN/blob/main/Figures/defects-diagram-0.png)
 
-Finally, details on the convergences for cutoff energy, k-density, size of the supercell, spin state in defects, magnetization, and Zero Phonon line is included in **Document** folder.
+Finally, details on the convergences for cutoff energy, k-density, size of the supercell, spin state in defects, magnetization, and Zero Phonon line is included in **Documents** folder.
