@@ -9,4 +9,4 @@ Furthermore, details of the arrangement of the energy levels in KS level diagram
 
 Finally, details on the convergences for cutoff energy, k-density, size of the supercell, spin state in defects, magnetization, and Zero Phonon line is included in **Documents** folder.
 
-The plots have been processed using the [LSPD package](https://github.com/JosephPVera/Localized-States).
+The plots for KS level diagram, formation energy diagram, localization of states have been processed using the [LSPD package](https://github.com/JosephPVera/Localized-States).
